@@ -1,0 +1,42 @@
+.diceholder{
+    text-align: center;
+
+}
+
+.dicediv {
+    background-color : red;
+    width: 120px;
+    float :left;
+    margin: 10px;
+
+}
+#adddice, #roll, #sumDice{
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    font: 2.4em Futura, ‘Century Gothic’, AppleGothic, sans-serif;
+    padding: 14px;
+    background:repeat-x center #ffcc00;
+    border-bottom:1px solid #9f9f9f;
+    cursor:pointer;
+}
+
+#name{
+    position: relative;
+    top: 49px;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+     
+}
+#totaldie{
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    font: 2.4em Futura, ‘Century Gothic’, AppleGothic, sans-serif;
+    padding: 14px;
+    background:repeat-x center lightgreen;
+    border-bottom:1px solid #9f9f9f;
+    cursor:pointer;
+    clear: both;
+}
